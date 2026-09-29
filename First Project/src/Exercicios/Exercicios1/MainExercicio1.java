@@ -17,5 +17,7 @@ public class MainExercicio1 {
         var birthYear = scan.nextInt();
         var age = todayDate.getYear() - birthYear;
         System.out.printf("Olá %s, você tem %s anos de idade.", name, age);
+
+        scan.close();
     }
 }

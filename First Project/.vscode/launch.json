@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MainExercicio1",
+      "request": "launch",
+      "mainClass": "Exercicios.Exercicios1.MainExercicio1",
+      "projectName": "First Project_5aff3069"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",

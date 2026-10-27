@@ -4,7 +4,6 @@ import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.ChronoUnit;
 import java.util.Scanner;
 /*
     4 - Escreva um código que o nome e a idade de duas pessoas e imprima a diferença de 
